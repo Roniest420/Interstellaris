@@ -4,13 +4,7 @@
     "image": "/assets/media/icons/custom.webp",
     "categories": ["all"],
     "custom": "true"
-  },
-  {
-    "name": "! [NEW] Request An App",
-    "link": "https://docs.google.com/forms/d/1q9-UiVpVN8WltxkLioOIuzbH-xAs_kNp4-vrYynVBZs/viewform?edit_requested=true",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
+  }
   {
     "name": "Amazon",
     "link": "https://amazon.com/",
